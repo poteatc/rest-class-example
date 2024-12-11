@@ -1,0 +1,1 @@
+# rest-class-example
